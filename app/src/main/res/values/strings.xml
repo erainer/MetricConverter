@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Metric Converter</string>
+    <string name="hint">What would you like to convert?</string>
+    <string-array name="txtGroup">
+        <item>Feet to Inches</item>
+        <item>Inches to Feet</item>
+        <item>Yards to Feet</item>
+        <item>Feet to Yards</item>
+        <item>Miles to Feet</item>
+        <item>Fahrenheit to Celsius</item>
+    </string-array>
+    <string name="numberToConvert">How much would you like to convert?</string>
+    <string name="btnConvert">Convert</string>
+</resources>
